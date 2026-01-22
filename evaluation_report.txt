@@ -1,0 +1,15 @@
+Heart disease Model Evaluation Report
+
+Accuracy: 0.7951219512195122
+Precision: 0.7563025210084033
+Recall: 0.8737864077669902
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.85      0.72      0.78       102
+           1       0.76      0.87      0.81       103
+
+    accuracy                           0.80       205
+   macro avg       0.80      0.79      0.79       205
+weighted avg       0.80      0.80      0.79       205
